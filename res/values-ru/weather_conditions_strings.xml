@@ -49,13 +49,13 @@
   <string name="weather_25">Холодно</string>
   <string name="weather_26">Пасмурный день</string>
   <!-- Night -->
-  <string name="weather_27">Значительная облачность</string>
+  <string name="weather_27">Значительная \n облачность</string>
   <!-- Day -->
-  <string name="weather_28">Значительная облачность</string>
+  <string name="weather_28">Значительная \n облачность</string>
   <!-- Night -->
-  <string name="weather_29">Переменная облачность</string>
+  <string name="weather_29">Переменная \n облачность</string>
   <!-- Day -->
-  <string name="weather_30">Переменная облачность</string>
+  <string name="weather_30">Переменная \n облачность</string>
   <!-- Night -->
   <string name="weather_31">Ясно</string>
   <string name="weather_32">Солнечно</string>
@@ -72,7 +72,7 @@
   <string name="weather_41">Сильный снег</string>
   <string name="weather_42">Возможен снег</string>
   <string name="weather_43">Сильный снег</string>
-  <string name="weather_44">Переменная облачность</string>
+  <string name="weather_44">Переменная \n облачность</string>
   <string name="weather_45">Дождь с грозой</string>
   <string name="weather_46">Дождь со снегом</string>
   <string name="weather_47">Местами грозы</string>
